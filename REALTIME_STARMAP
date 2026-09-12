@@ -1,0 +1,4 @@
+python -m pip install --upgrade pip
+pip install numpy matplotlib astropy pandas scipy
+pip install requests
+pip instal pandas
