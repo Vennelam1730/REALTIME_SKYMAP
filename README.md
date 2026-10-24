@@ -2,7 +2,7 @@
 
 **Real-Time Sky Map Generator**: a Stellarium-style sky map built in Python.
 
-REALTIME_STARMAP computes where stars, constellations and Solar System bodies appear in the sky for an observer's location and time, and renders the result as a labelled map image. The included sample shows the sky over Bengaluru with constellation lines and names, background stars, and the Sun, Mercury, Venus and Jupiter.
+REALTIME_SKYMAP computes where stars, constellations and Solar System bodies appear in the sky for an observer's location and time, and renders the result as a labelled map image. The included sample shows the sky over Bengaluru with constellation lines and names, background stars, and the Sun, Mercury, Venus and Jupiter.
 
 ![Real-time sky over Bengaluru](output/realtime_sky.png)
 
@@ -21,7 +21,7 @@ REALTIME_STARMAP computes where stars, constellations and Solar System bodies ap
 ## Project structure
 
 ```
-REALTIME_STARMAP/
+REALTIME_SKYMAP/
 ├── data/
 │   ├── catalogue/
 │   │   └── catalog.gz            # downloaded raw catalogue
