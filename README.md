@@ -1,4 +1,4 @@
-# REALTIME_STARMAP
+# REALTIME_SKYMAP
 
 **Real-Time Sky Map Generator**: a Stellarium-style sky map built in Python.
 
